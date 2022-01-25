@@ -1,0 +1,14 @@
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.csproj.AssemblyReference.cache
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.AssemblyInfoInputs.cache
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.AssemblyInfo.cs
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.csproj.CoreCompileInputs.cache
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\bin\Debug\netcoreapp3.1\Shorting.exe
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\bin\Debug\netcoreapp3.1\Shorting.deps.json
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\bin\Debug\netcoreapp3.1\Shorting.runtimeconfig.json
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\bin\Debug\netcoreapp3.1\Shorting.runtimeconfig.dev.json
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\bin\Debug\netcoreapp3.1\Shorting.dll
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\bin\Debug\netcoreapp3.1\Shorting.pdb
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.dll
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.pdb
+C:\Users\sk290\Desktop\bridgepractice\Shorting\Shorting\obj\Debug\netcoreapp3.1\Shorting.genruntimeconfig.cache
