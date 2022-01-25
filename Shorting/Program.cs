@@ -6,10 +6,10 @@ using System.Collections.Generic;
     {
         public static void Main(string[] args)
         {
-           var num = new Stack<int>();
-            num.Push(56);
-            num.Push(30);
-            num.Push(70);
+           Queue <int> num = new Queue<int>();
+            num.Enqueue(56);
+            num.Enqueue(30);
+            num.Enqueue(70);
 
             foreach (int item in num)
             {
@@ -17,8 +17,8 @@ using System.Collections.Generic;
             }
 
             Console.WriteLine("Peek element: " + num.Peek());
-            Console.WriteLine("Pop: " + num.Pop());
-            Console.WriteLine("After Pop, Peek element: " + num.Peek());
+            Console.WriteLine("Dequeue: " + num.Dequeue());
+            Console.WriteLine("After Dequeue, Peek element: " + num.Peek());
 
         }
     }
