@@ -16,7 +16,7 @@ using System.Collections.Generic;
                 Console.WriteLine(num);
             }
 
-            Console.WriteLine("Peek element: " + num.Peek());
+            //Console.WriteLine("Peek element: " + num.Peek());
             Console.WriteLine("Dequeue: " + num.Dequeue());
             Console.WriteLine("After Dequeue, Peek element: " + num.Peek());
 
